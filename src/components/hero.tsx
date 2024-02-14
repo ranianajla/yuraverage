@@ -1,5 +1,4 @@
 import React from "react";
-import Typewriter from 'typewriter-effect';
 import Link from "next/link";
 import Image from "next/image";
 import janggar from "/public/image/janggar.jpg";
