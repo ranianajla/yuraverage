@@ -25,6 +25,7 @@ const Hero = () => {
                 width="200"
                 height="200"
                 className="rounded-2xl mx-auto"
+                alt="pakrt"
                 />
             </div>
         </div>
