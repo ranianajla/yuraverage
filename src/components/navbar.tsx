@@ -1,5 +1,4 @@
 import React from "react";
-import { FaSearch } from "@react-icons/fa";
 
 function Navbar() {
     return(
@@ -13,7 +12,7 @@ function Navbar() {
             <p>Contact</p>
             </div>
 
-            <FaSearch className='w-4 h-5 mr-3 text-[#FFFFFF]'/>
+            <p>Simbol Cari</p>
 
       </div>
     )
